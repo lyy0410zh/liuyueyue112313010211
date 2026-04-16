@@ -36,19 +36,26 @@
 ## 4. Kaggle 成绩
 请填写你最终提交到 Kaggle 的结果：
 
-- **Public Score**：0.87（待优化）
-- **Private Score**（如有）：
-- **排名**（如能看到可填写）：
+- **Public Score**：0.94049
+- **Private Score**（如有）：0.94049
+- **排名**：前10%
 
 ---
 
 ## 5. Kaggle 截图
 请在下方插入 Kaggle 提交结果截图，要求能清楚看到分数信息。
 
-![Kaggle截图](./images/kaggle_score.png)
+![Kaggle截图](./images/112313010211_刘悦悦_kaggle_score.png)
 
 > 建议将截图保存在 `images` 文件夹中。  
-> 截图文件名示例：`2023123456_张三_kaggle_score.png`
+> 截图文件名：`112313010211_刘悦悦_kaggle_score.png`
+
+### 成绩提升历程
+| 提交文件 | Public Score | 说明 |
+|---------|-------------|------|
+| submission_logisticregression_tfidf.csv | 0.84596 | 基础模型 |
+| Word2Vec_TFIDF_Weighted_LogisticRegression.csv | 0.87112 | 第一次优化 |
+| **Word2Vec_TFIDF_Weighted_LogisticRegression_v2.csv** | **0.94049** | **最终最佳成绩** |
 
 ---
 
