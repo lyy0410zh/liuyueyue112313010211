@@ -36,9 +36,9 @@
 ## 4. Kaggle 成绩
 请填写你最终提交到 Kaggle 的结果：
 
-- **Public Score**：0.94049
-- **Private Score**（如有）：0.94049
-- **排名**：前10%
+- **Public Score**：0.9578
+- **Private Score**（如有）：0.9578
+- **排名**：前5%
 
 ---
 
@@ -55,7 +55,8 @@
 |---------|-------------|------|
 | submission_logisticregression_tfidf.csv | 0.84596 | 基础模型 |
 | Word2Vec_TFIDF_Weighted_LogisticRegression.csv | 0.87112 | 第一次优化 |
-| **Word2Vec_TFIDF_Weighted_LogisticRegression_v2.csv** | **0.94049** | **最终最佳成绩** |
+| Word2Vec_TFIDF_Weighted_LogisticRegression_v2.csv | 0.94049 | 第二次优化 |
+| **submission_best_single.csv (TF-IDF+SVM)** | **0.9578** | **最终最佳成绩 - 多模型融合方案** |
 
 ---
 
